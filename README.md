@@ -1,10 +1,14 @@
-- 🔭 I’m currently working on ML bot for Trading.
-- 🌱 I’m currently learning Go.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <h1>こんにちは, I'm Vishnu!</h1>
+</p>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CleanScripting?color=green&label=Follow">
+<a href="https://twitter.com/CleanScripting">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vishnu-kumar-96bb79102">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/atkumarvishnu">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/><br/>
