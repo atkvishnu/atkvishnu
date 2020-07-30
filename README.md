@@ -1,7 +1,7 @@
 <p align="center">
-  <h1>こんにちは, I'm Vishnu!</h1>
+  <h1>こんにちは</h1>
 </p>
-
+<br/>
 <a href="https://twitter.com/CleanScripting">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,4 +13,4 @@
 </a>
 <br/><br/>
 
-I am a Software Enthusiast, currently learning and working on many <strong>wonderful</strong> things!
+I am a <strong>Software Enthusiast</strong>, currently learning and working on many <strong>wonderful</strong> things!
