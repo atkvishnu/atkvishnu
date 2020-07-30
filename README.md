@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<h1 align='center'>Stay Awesome</h1>
-
-<!--
-**atkumarvishnu/atkumarvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ML bot for Trading.
 - 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +6,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FCleanScripting">
