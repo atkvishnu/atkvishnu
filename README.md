@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi / こんにちは</h1>
+<h1><strong>Hi / こんにちは</strong></h1>
 </p>
 
 </br>
