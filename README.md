@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="800" height="350">
 
-<div align="center">
+<div align="right">
 <a href="https://twitter.com/CleanScripting">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
