@@ -3,7 +3,7 @@
 </p>
 <br/>
 
-<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="1000" height="400">
+<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif">
 
 <a align="center">
 <a href="https://twitter.com/CleanScripting">
