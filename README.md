@@ -1,7 +1,6 @@
 <p align="center">
   <h1>こんにちは</h1>
 </p>
-</br>
 
 <img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="800" height="350">
 
