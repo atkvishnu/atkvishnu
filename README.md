@@ -3,9 +3,9 @@
 </p>
 <br/>
 
-<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="950" height="420">
+<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="900" height="400">
 
-<a align="center">
+<div align="center">
 <a href="https://twitter.com/CleanScripting">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,4 +15,4 @@
 <a href="https://github.com/atkumarvishnu">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-  </a>
+</div>
