@@ -3,9 +3,9 @@
 </p>
 <br/>
 
-<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif">
+<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif" width="700" height="400">
 
-
+<a align="center">
 <a href="https://twitter.com/CleanScripting">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,6 +15,7 @@
 <a href="https://github.com/atkumarvishnu">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+  </a>
 <br/><br/>
 <br/>
 I am a <strong>Software Enthusiast</strong>, currently learning and working on many <strong>wonderful</strong> things!
