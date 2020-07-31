@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>こんにちは</h1>
+  <h1>こんにちは/Hi</h1>
 </p>
 <br/>
 
@@ -16,6 +16,3 @@
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
   </a>
-<br/><br/>
-<br/>
-I am a <strong>Software Enthusiast</strong>, currently learning and working on many <strong>wonderful</strong> things!
