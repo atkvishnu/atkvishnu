@@ -2,6 +2,8 @@
   <h1>Hi / こんにちは</h1>
 </p>
 
+</br>
+
 <img src="https://media.giphy.com/media/J3FxKYqrfD5Nxayo6p/giphy.gif"  width="800" height="275">
 
 </br>
