@@ -12,7 +12,7 @@
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/vishnu-kumar-96bb79102">
+<a href="www.linkedin.com/in/kumar-vishnu">
   <img align="left"  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
