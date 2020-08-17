@@ -1,10 +1,10 @@
 <p align="center">
-<h1><b>नमस्ते / Hi / こんにちは</b></h1>
+<h1><b>नमस्ते / Hi</b></h1>
 </p>
 
 </br>
 
-<img src="https://media.giphy.com/media/J3FxKYqrfD5Nxayo6p/giphy.gif"  width="800" height="275">
+<img src="https://media.giphy.com/media/MeDLB8TbxRERTTwV0a/giphy.gif"  width="800" height="275">
 
 </br>
 
