@@ -1,8 +1,4 @@
-<p align="center">
-<h1><b>नमस्ते / Hi</b></h1>
-</p>
 
-</br>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
