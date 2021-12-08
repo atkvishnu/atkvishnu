@@ -6,7 +6,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [0. Motive behind this `Blog`](https://rwx.hashnode.dev/0-motive-behind-this-blog)
 <!-- BLOG-POST-LIST:END -->
 
 
