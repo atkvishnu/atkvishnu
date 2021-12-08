@@ -5,15 +5,15 @@
 </p>
 </br>
 <div align="center">
-<a href="https://twitter.com/CleanScripting">
+<a href="https://twitter.com/cleanscripting">
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="www.linkedin.com/in/kumar-vishnu">
+<a href="www.linkedin.com/in/atkvishnu">
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/atkumarvishnu">
+<a href="https://github.com/atkvishnu">
   <img align="center" alt="Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </div>
