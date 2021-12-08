@@ -14,4 +14,4 @@ jobs:
       - name: Pull in hashnode and dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rwx.hashnode.dev/,https://dev.to/feed/atkvishnu/"
+          feed_list: "https://@rwx.hashnode.dev/rss.xml,https://dev.to/feed/atkvishnu/"
