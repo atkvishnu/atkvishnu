@@ -5,14 +5,18 @@
 <p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="350" alt="Vishnu's Dev Card"/></a>
 </p>
 
-### ✨ 📝 ✔️ Blog posts ❤️ ✨
+## 📝 Latest Blog Posts
+
+These are my latest posts on [Hashnode](https://rwx.hashnode.dev) and [Stack Overflow](https://stackoverflow.com/users/11884426/):
+
+### Hashnode Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [0. Motive behind this `Blog`](https://rwx.hashnode.dev/0-motive-behind-this-blog)
 <!-- BLOG-POST-LIST:END -->
 
 
 
-### ❓ ❔ StackOverflow Activity ❔ ❓
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Vishnu for Copying text outside of Vim with set mouse=a enabled](https://stackoverflow.com/questions/4608161/copying-text-outside-of-vim-with-set-mouse-a-enabled/69939393#69939393)
 - [Answer by Vishnu for Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c/69698010#69698010)
