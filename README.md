@@ -14,7 +14,11 @@
 
 # ❓ ❔ StackOverflow Activity ❔ ❓
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by Vishnu for Copying text outside of Vim with set mouse=a enabled](https://stackoverflow.com/questions/4608161/copying-text-outside-of-vim-with-set-mouse-a-enabled/69939393#69939393)
+- [Answer by Vishnu for Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c/69698010#69698010)
+- [Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c)
+- [Answer by Vishnu for How to add images from pc to web](https://stackoverflow.com/questions/69572531/how-to-add-images-from-pc-to-web/69572805#69572805)
+- [Answer by Vishnu for Printing a list of dates in 2022 with the dd/mm/22 format using loop logic](https://stackoverflow.com/questions/69519680/printing-a-list-of-dates-in-2022-with-the-dd-mm-22-format-using-loop-logic/69519772#69519772)
 <!-- STACKOVERFLOW:END -->
 
 
