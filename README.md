@@ -1,8 +1,9 @@
-<p>
+
 <p align="center"><a><img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></a></p>
 
-<p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="300" alt="Vishnu's Dev Card"/></a></p>
 
+<p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="350" alt="Vishnu's Dev Card"/></a>
+</p>
 
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
