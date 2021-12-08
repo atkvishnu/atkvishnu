@@ -60,9 +60,9 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <div align="center">
 
 <p align="center">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true">
   
-<img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu">
 </p> 
 
 </div>
