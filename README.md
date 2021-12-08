@@ -32,15 +32,15 @@ These are my latest posts on [Hashnode](https://rwx.hashnode.dev) and [Stack Ove
 
 <div align="center">
   
-[![atkvishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&theme=gruvbox&border_color=#39ff14)](https://github.com/anuraghazra/github-readme-stats)
+[![atkvishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&bg_color=30,FFF720,3CD500&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=10&layout=compact&bg_color=30,FFF720,3CD500&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu&bg_color=30,FFF720,3CD500&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
