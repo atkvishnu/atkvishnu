@@ -31,6 +31,7 @@ These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
   
 #### Hashnode Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1. Move Zeroes](https://rwx.hashnode.dev/1-move-zeroes)
 - [0. Motive behind this `Blog`](https://rwx.hashnode.dev/0-motive-behind-this-blog)
 <!-- BLOG-POST-LIST:END -->
 
