@@ -17,7 +17,7 @@
 
 |Humor|~/|
 |:--:|:--:|
-|<p align="center"><a><img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></a></p>|Aam Zindagi|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/normal_dino.gif)|Aam Zindagi|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/mentos.gif)|Mentos Zindagi|
 
 
@@ -86,9 +86,9 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <div align="center">
 
 <h2> 
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/consult.gif" height="60px" width="60px">
-     Connect with me
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/Handshake.gif" height="60px" width="60px"></a>
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/consult.gif" height="60px" width="60px">     
+    &nbsp &nbsp &nbsp Connect with me &nbsp &nbsp
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/handshake.gif" height="55px" width="110px"></a>
 </h2> 
   
 <a href="https://twitter.com/cleanscripting">
