@@ -18,8 +18,8 @@
 
 |Humor|~/|
 |:--:|:--:|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/normal_dino.gif)|Aam Zindagi|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/mentos.gif)|Mentos Zindagi|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/normal_dino.gif)|आम जिंदगी|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/mentos.gif)|Mentos जिंदगी|
 
 
 
