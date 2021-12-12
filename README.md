@@ -84,9 +84,13 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 ----
 
 <div align="center">
+
+<h2> 
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/consult.gif" height="60px" width="60px">
+     Connect with me
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/Handshake.gif" height="60px" width="60px"></a>
+</h2> 
   
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
 <a href="https://twitter.com/cleanscripting">
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
