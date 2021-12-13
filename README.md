@@ -35,11 +35,11 @@ These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
   
 #### Hashnode Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5. [204. Count Primes]](https://rwx.hashnode.dev/5-204-count-primes)
-- [4. Prime Sum](https://rwx.hashnode.dev/4-prime-sum)
-- [3. Distribute in Circle!](https://rwx.hashnode.dev/3-distribute-in-circle)
-- [2. Total Moves For Bishop!](https://rwx.hashnode.dev/2-total-moves-for-bishop)
-- [1. Move Zeroes](https://rwx.hashnode.dev/1-move-zeroes)
+- [PS5. [204. Count Primes]](https://rwx.hashnode.dev/ps5-204-count-primes)
+- [PS4. Prime Sum](https://rwx.hashnode.dev/ps4-prime-sum)
+- [PS3. Distribute in Circle!](https://rwx.hashnode.dev/ps3-distribute-in-circle)
+- [PS2. Total Moves For Bishop!](https://rwx.hashnode.dev/ps2-total-moves-for-bishop)
+- [PS1. Move Zeroes](https://rwx.hashnode.dev/ps1-move-zeroes)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
