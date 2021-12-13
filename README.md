@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Hey! <img src="https://github.com/atkvishnu/atkvishnu/blob/master/avatar.gif" height="60px" width="60px">  Welcome! 
+   Hey! <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/avatar.gif" height="60px" width="60px">  Welcome! 
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
@@ -18,8 +18,8 @@
 
 |Humor|~/|
 |:--:|:--:|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/normal_dino.gif)|आम जिंदगी|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/mentos.gif)|Mentos जिंदगी|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|आम जिंदगी|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Mentos जिंदगी|
 
 
 
@@ -87,9 +87,9 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <div align="center">
 
 <h2> 
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/consult.gif" height="60px" width="60px">     
-    &nbsp;&nbsp; &nbsp; Connect with me &nbsp;
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/handshake.gif" height="50px" width="100px"></a>
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/consult.gif" height="60px" width="60px">     
+    &nbsp;&nbsp;  Connect with me &nbsp;
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" height="50px" width="100px"></a>
 </h2> 
   
 <a href="https://twitter.com/cleanscripting">
