@@ -88,8 +88,8 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 <h2> 
     <img src="https://github.com/atkvishnu/atkvishnu/blob/master/consult.gif" height="60px" width="60px">     
-    &nbsp;&nbsp; &nbsp; Connect with me &nbsp; &nbsp;
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/handshake.gif" height="55px" width="110px"></a>
+    &nbsp;&nbsp; &nbsp; Connect with me &nbsp;
+    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/handshake.gif" height="50px" width="100px"></a>
 </h2> 
   
 <a href="https://twitter.com/cleanscripting">
