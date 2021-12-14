@@ -69,19 +69,10 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <div align="center">
 
 
-   <p align="center">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  
 <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</p> 
 
-</div>
-
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
-
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/atkvishnu)
 </div>
 
 ----
@@ -98,5 +89,5 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <a href="www.linkedin.com/in/atkvishnu">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>
 </a>
-&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;
 </div>
