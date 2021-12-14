@@ -93,11 +93,11 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 </h2> 
   
 <a href="https://twitter.com/cleanscripting">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" width="40px" src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" />
 </a>
 &ensp;
 <a href="www.linkedin.com/in/atkvishnu">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 &ensp;&ensp;&ensp;&ensp;
 
