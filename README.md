@@ -1,3 +1,4 @@
+
 <h1 align="center"> 
    Hey! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
 
@@ -16,14 +17,14 @@
 </h1>
 
 
-|Humor|~/|
+|Humor|Walks of life|
 |:--:|:--:|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|आम जिंदगी|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Mentos जिंदगी|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
 
 
 
-<p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="350" alt="Vishnu's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="300" alt="Vishnu's Dev Card"/></a>
 </p>
 
 ----
@@ -67,10 +68,11 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 <div align="center">
 
-<p align="center">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true">
+
+   <p align="center">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
   
-<img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </p> 
 
 </div>
@@ -78,27 +80,23 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ----
 
 <div align="center">
-
-<h2> 
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/consult.gif" height="60px" width="60px">     
-    &nbsp;&nbsp;  Connect with me &nbsp;
-    <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" height="50px" width="100px"></a>
-</h2> 
-  
+<h2>   
+    Connect with me 
+   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" width="60px">
+</h2>
 <a href="https://twitter.com/cleanscripting">
-  <img align="center" width="40px" src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" />
+  <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" width="40px"/>
 </a>
 &ensp;
 <a href="www.linkedin.com/in/atkvishnu">
-  <img align="center" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>
 </a>
 &ensp;&ensp;&ensp;&ensp;
-
 </div>
