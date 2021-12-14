@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Hey! <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/avatar.gif" height="60px" width="60px">  Welcome! 
+   Hey! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
