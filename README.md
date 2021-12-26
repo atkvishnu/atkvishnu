@@ -71,17 +71,13 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <summary><samp>&#9776;</samp> ⏱️ Wakatime Stats </summary>
 <br>  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-🌆 Daytime    34 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
-🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-🌙 Night      57 commits     ███████████░░░░░░░░░░░░░░   46.72%
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+🌆 Daytime    34 commits     ███████░░░░░░░░░░░░░░░░░░   27.64% 
+🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+🌙 Night      58 commits     ███████████░░░░░░░░░░░░░░   47.15%
 
 ```
 
@@ -89,8 +85,6 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 C++                      27 mins             ██████████░░░░░░░░░░░░░░░   40.08% 
 Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.95% 
@@ -99,6 +93,10 @@ Text                     7 mins              ██░░░░░░░░░�
 C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 ```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/atkvishnu/atkvishnu/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
