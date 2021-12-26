@@ -7,10 +7,11 @@
     <a href="https://github.com/atkvishnu?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/atkvishnu" alt="atkvishnu"/></a> 
     <img src="https://badges.pufler.dev/years/atkvishnu" alt="Monthy commits"/>  
     <img src="https://badges.pufler.dev/commits/monthly/atkvishnu" alt="atkvishnu"/>   
-    <a href="https://github.com/atkvishnu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/atkvishnu?color=4C1&logo=github"></a>
-    <a href="https://github.com/atkvishnu/atkvishnu" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/atkvishnu/atkvishnu?label=Profile%20update&style=fflat-square"></a>
+<!--     <a href="https://github.com/atkvishnu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/atkvishnu?color=4C1&logo=github"></a> -->
+    <a href="https://github.com/atkvishnu/atkvishnu" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/atkvishnu/atkvishnu?label=Profile%20update&style=flat-square"></a>
     <a href="https://github.com/atkvishnu" target="_blank"><img alt="atkvishnu" src="https://badges.pufler.dev/visits/atkvishnu/atkvishnu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
+    <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
     <br/>
   <!--<img src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>-->
 </p> 
@@ -158,17 +159,10 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <div align="center">
 
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atkvishnu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">   
    
-<img src="https://github.com/atkvishnu/atkvishnu/blob/master/images/codeStats.svg" alt="Wakatime Stats"/>
 
-   
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/atkvishnu)
-   [![wakatime](https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg)](https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318)
-
-   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">     
 
    
    
