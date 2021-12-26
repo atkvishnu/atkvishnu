@@ -66,6 +66,16 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 ----
 
+<details>
+<summary><samp>&#9776;</samp> ⏱️ Wakatime Stats </summary>
+<br>  
+<!--START_SECTION:waka-->
+   
+<!--END_SECTION:waka-->
+</details>
+
+----
+
 <div align="center">
 
 
@@ -78,6 +88,10 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/atkvishnu)
    [![wakatime](https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg)](https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318)
+
+   
+
+   
    
 </div>
 
