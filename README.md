@@ -4,11 +4,8 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
-    <a href="https://github.com/atkvishnu?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/atkvishnu" alt="atkvishnu"/></a> 
     <img src="https://badges.pufler.dev/years/atkvishnu" alt="Monthy commits"/>  
     <img src="https://badges.pufler.dev/commits/monthly/atkvishnu" alt="atkvishnu"/>   
-<!--     <a href="https://github.com/atkvishnu?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/atkvishnu?color=4C1&logo=github"></a> -->
-    <a href="https://github.com/atkvishnu/atkvishnu" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/atkvishnu/atkvishnu?label=Profile%20update&style=flat-square"></a>
     <a href="https://github.com/atkvishnu" target="_blank"><img alt="atkvishnu" src="https://badges.pufler.dev/visits/atkvishnu/atkvishnu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
     <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
@@ -25,10 +22,61 @@
 
 
 
-<p align="center"><a href="https://app.daily.dev/atkvishnu"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" width="300" alt="Vishnu's Dev Card"/></a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"> 
+<a href="https://app.daily.dev/atkvishnu"><img height="350em" src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" alt="Vishnu's Dev Card"/></a>
+
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">   
+   
+
+
+</div>
 
 ----
+
+<details>
+<summary><samp>&#9776;</samp> ⏱️ Wakatime Stats </summary>
+<br>  
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+🌆 Daytime    34 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
+🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+🌙 Night      57 commits     ███████████░░░░░░░░░░░░░░   46.72%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C++                      27 mins             ██████████░░░░░░░░░░░░░░░   40.08% 
+Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+Go                       15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.23% 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
+
+```
+
+
+<!--END_SECTION:waka-->
+</details>
+
+
+
+
+----
+
 <details>
 <summary><samp>&#9776;</samp> 📝 Click for List of Blog Posts </summary>
 <br>
@@ -65,56 +113,7 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 </details>
 
-----
 
-<details>
-<summary><samp>&#9776;</samp> ⏱️ Wakatime Stats </summary>
-<br>  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-🌆 Daytime    34 commits     ███████░░░░░░░░░░░░░░░░░░   27.64% 
-🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-🌙 Night      58 commits     ███████████░░░░░░░░░░░░░░   47.15%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      27 mins             ██████████░░░░░░░░░░░░░░░   40.08% 
-Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.95% 
-Go                       15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.23% 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/atkvishnu/atkvishnu/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-</details>
-
-----
-
-<div align="center">
-
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">   
-   
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">     
-
-   
-   
-</div>
 
 ----
 
