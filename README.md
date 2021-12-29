@@ -20,7 +20,7 @@
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
 
-
+---
 
 <div align="center">
 
