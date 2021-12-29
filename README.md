@@ -121,7 +121,7 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 </a>
 &ensp;
 <a href="www.linkedin.com/in/atkvishnu">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>
+  <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/linkedin2-circle.gif" width="40px"/>
 </a>
 &ensp;
    
