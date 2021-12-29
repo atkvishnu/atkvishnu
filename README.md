@@ -15,7 +15,7 @@
 </h1>
 
 
-|Humor|Walks of life|
+|Humor (chrome://dino/)|Walks of life|
 |:--:|:--:|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
@@ -37,8 +37,9 @@
 ----
 
 <details>
-<summary><samp>&#9776;</samp> ⏱️ Wakatime Stats </summary>
-<br>  
+<summary>⏱️ Wakatime Stats </summary>
+</br> 
+   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -63,8 +64,8 @@ C                        2 mins              ░░░░░░░░░░░�
 
 ```
 
-
 <!--END_SECTION:waka-->
+
 </details>
 
 
@@ -73,9 +74,9 @@ C                        2 mins              ░░░░░░░░░░░�
 ----
 
 <details>
-<summary><samp>&#9776;</samp> 📝 Click for List of Blog Posts </summary>
+<summary>📝 Blog Posts </summary>
 <br>
-  
+   
 These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
   
 #### Hashnode Blog posts
@@ -92,7 +93,7 @@ These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
 ----
 
 <details>
-<summary><samp>&#9776;</samp> 📝 Click for List of StackOverflow Posts </summary>
+<summary>📝 StackOverflow QnA's </summary>
 <br>  
 
 These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11884426/):
@@ -108,15 +109,12 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 
 </details>
 
-
-
 ----
 
-<div align="center">
-<h2>   
-    Connect with me 
-   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" width="60px">
-</h2>
+<details>
+<summary>💬 Connect with me <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" width="50px"> </summary>
+<br>  
+&ensp;&ensp;
 <a href="https://twitter.com/cleanscripting">
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" width="40px"/>
 </a>
@@ -124,5 +122,8 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 <a href="www.linkedin.com/in/atkvishnu">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>
 </a>
-&ensp;&ensp;&ensp;
-</div>
+&ensp;
+   
+</details>
+
+----
