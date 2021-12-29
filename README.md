@@ -15,7 +15,7 @@
 </h1>
 
 
-|Humor (chrome://dino/)|Walks of life|
+| Humor (chrome://dino/) |Walks of life|
 |:--:|:--:|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
@@ -75,7 +75,7 @@ C                        2 mins              ░░░░░░░░░░░�
 ----
 
 <details>
-<summary>📝 Blog Posts </summary>
+<summary>📝 Blog </summary>
 <br>
    
 These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
@@ -94,7 +94,7 @@ These are my latest posts on [Hashnode](https://rwx.hashnode.dev):
 ----
 
 <details>
-<summary>📝 StackOverflow QnA's </summary>
+<summary>📝 StackOverflow </summary>
 <br>  
 
 These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11884426/):
