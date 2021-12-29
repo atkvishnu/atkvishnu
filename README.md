@@ -120,7 +120,7 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" width="40px"/>
 </a>
 &ensp;
-<a href="www.linkedin.com/in/atkvishnu">
+<a href="https://linkedin.com/in/atkvishnu">
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/linkedin2-circle.gif" width="40px"/>
 </a>
 &ensp;
