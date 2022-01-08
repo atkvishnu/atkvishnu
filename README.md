@@ -39,7 +39,7 @@
 <details>
 <summary>⏱️ Wakatime Stats </summary>
 </br> 
-   
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -107,6 +107,22 @@ These are my latest posts on [Stack Overflow](https://stackoverflow.com/users/11
 - [Answer by Vishnu for How to add images from pc to web](https://stackoverflow.com/questions/69572531/how-to-add-images-from-pc-to-web/69572805#69572805)
 - [Answer by Vishnu for Printing a list of dates in 2022 with the dd/mm/22 format using loop logic](https://stackoverflow.com/questions/69519680/printing-a-list-of-dates-in-2022-with-the-dd-mm-22-format-using-loop-logic/69519772#69519772)
 <!-- STACKOVERFLOW:END -->
+
+</details>
+
+----
+
+<details>
+<summary>📊 Charts </summary>
+</br> 
+
+<p align="center"><b>🔎 Github Profile Details</b></p>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atkvishnu&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
+
+<p align="center"><b>📊 Github Contribution Graph</b></p>
+
+<p align="center"><img height="220em" src="https://activity-graph.herokuapp.com/graph?username=atkvishnu&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></p>
 
 </details>
 
