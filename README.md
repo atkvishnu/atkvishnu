@@ -10,7 +10,7 @@
     <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
     <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
     <br/>
-  <!--<img src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>-->
+  
 </p> 
 </h1>
 
@@ -19,6 +19,7 @@
 |:--:|:--:|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
+
 
 ---
 
@@ -29,7 +30,7 @@
 <a href="https://app.daily.dev/atkvishnu"><img height="350em" src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" alt="Vishnu's Dev Card"/></a>
    </p>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">   
-   
+   <img src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
 
 
 </div>
