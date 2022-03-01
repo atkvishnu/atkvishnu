@@ -5,8 +5,8 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
     <img src="https://badges.pufler.dev/years/atkvishnu" alt="Monthy commits"/>  
-    <img src="https://badges.pufler.dev/commits/monthly/atkvishnu" alt="atkvishnu"/>   
-    <a href="https://github.com/atkvishnu" target="_blank"><img alt="atkvishnu" src="https://badges.pufler.dev/visits/atkvishnu/atkvishnu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<!--     <img src="https://badges.pufler.dev/commits/monthly/atkvishnu" alt="atkvishnu"/>    -->
+<!--     <a href="https://github.com/atkvishnu" target="_blank"><img alt="atkvishnu" src="https://badges.pufler.dev/visits/atkvishnu/atkvishnu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
     <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
     <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
     <br/>
