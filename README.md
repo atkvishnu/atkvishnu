@@ -29,8 +29,6 @@
    &ensp; &ensp;
 <a href="https://app.daily.dev/atkvishnu"><img height="350em" src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" alt="Vishnu's Dev Card"/></a>
    </p>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=atkvishnu&hide=stars&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">   
-   <br/>
    <img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
 
 
