@@ -77,7 +77,7 @@
 
 
 
-----
+<!-- ----
 
 <details>
 <summary>📊 Charts </summary>
@@ -87,11 +87,7 @@
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atkvishnu&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
-<p align="center"><b>📊 Github Contribution Graph</b></p>
-
-<p align="center"><img height="220em" src="https://activity-graph.herokuapp.com/graph?username=atkvishnu&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></p>
-
-</details>
+</details> -->
 
 ----
 
