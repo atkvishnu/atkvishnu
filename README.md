@@ -43,7 +43,6 @@
 
 <details>
 <summary>📝 Blog </summary>
-<br>
   
 #### [Hashnode](https://rwx.hashnode.dev) Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -60,8 +59,7 @@
 ----
 
 <details>
-<summary>📝 StackOverflow </summary>
-<br>  
+<summary>📝 StackOverflow </summary> 
 
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
