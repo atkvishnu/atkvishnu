@@ -20,6 +20,7 @@
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
 
+[hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)
 
 ---
 
