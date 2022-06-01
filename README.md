@@ -64,11 +64,11 @@
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vishnu for &#39;React&#39; must be in scope when using JSX react/react-in-jsx-scope?](https://stackoverflow.com/questions/42640636/react-must-be-in-scope-when-using-jsx-react-react-in-jsx-scope/72448273#72448273)
 - [Answer by Vishnu for Favicon requested on every route change](https://stackoverflow.com/questions/35409588/favicon-requested-on-every-route-change/71858881#71858881)
 - [Answer by Vishnu for TypeError: exphbs is not a function](https://stackoverflow.com/questions/69959820/typeerror-exphbs-is-not-a-function/71291574#71291574)
 - [Answer by Vishnu for Copying text outside of Vim with set mouse=a enabled](https://stackoverflow.com/questions/4608161/copying-text-outside-of-vim-with-set-mouse-a-enabled/69939393#69939393)
 - [Answer by Vishnu for Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c/69698010#69698010)
-- [Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c)
 <!-- STACKOVERFLOW:END -->
 
 </details>
