@@ -91,7 +91,7 @@
 ----
 
 <details>
-<summary>💬 Connect with me <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/handshake.gif" width="50px"> </summary>
+<summary>💬 Connect with me </summary>
 <br>  
 &ensp;&ensp;
 <a href="https://twitter.com/cleanscripting">
