@@ -95,11 +95,11 @@
 <br>  
 &ensp;&ensp;
 <a href="https://twitter.com/cleanscripting">
-  <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" width="40px"/>
+  <img src="https://img.icons8.com/color/48/twitter--v1.png"/>
 </a>
 &ensp;
 <a href="https://linkedin.com/in/atkvishnu">
-  <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/linkedin2-circle.gif" width="40px"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 &ensp;
    
