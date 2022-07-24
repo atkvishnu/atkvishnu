@@ -17,7 +17,13 @@
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
 |![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
 
-[hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)
+</br>
+
+<div align="left">
+<a href="https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba">
+<img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height=90px"/> 
+</a>
+</div>
 
 ---
 
@@ -31,17 +37,10 @@
   
 </div>
 
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lipspotatochipss&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spoti.fi/3J1ZZGV)
-
-</div>
-
-
 ----
 
 <details>
-<summary>📝 Blog </summary>
+<summary><a href="#"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="20px" /> </a> Blog </summary>
   
 #### [Hashnode](https://rwx.hashnode.dev) Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -58,7 +57,7 @@
 ----
 
 <details>
-<summary>📝 StackOverflow </summary> 
+<summary><a href="#"><img src="https://stackoverflow.design/assets/img/logos/so/logo-meta.png" height="25px" href="" /> </a></summary> 
 
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
@@ -72,19 +71,19 @@
 
 </details>
 
-
-
-<!-- ----
+---
 
 <details>
-<summary>📊 Charts </summary>
+<summary><a href="#"><img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" height="20px" /> </a> </summary>
 </br> 
 
-<p align="center"><b>🔎 Github Profile Details</b></p>
+<div align="center">
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atkvishnu&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lipspotatochipss&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spoti.fi/3J1ZZGV)
 
-</details> -->
+</div>
+
+</details>
 
 ----
 
@@ -106,3 +105,6 @@
 </details>
 
 ----
+
+
+
