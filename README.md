@@ -40,7 +40,7 @@
 ----
 
 <details>
-<summary><a href="#"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="21px"/></a> Blog </summary>
+<summary><a href="#4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="21px"/></a> Blog </summary>
   
 #### [Hashnode](https://rwx.hashnode.dev) Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -57,7 +57,7 @@
 ----
 
 <details>
-<summary><a href="#"><img src="https://stackoverflow.design/assets/img/logos/so/logo-meta.png" height="25px"/></a>     </summary> 
+<summary><a href="#5"><img src="https://stackoverflow.design/assets/img/logos/so/logo-meta.png" height="25px"/></a>     </summary> 
 
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
@@ -75,7 +75,7 @@
 
 <details>
 <summary>
-<a href="#">
+<a href="#6">
 <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" height="25px"/>
 <img src="https://img.icons8.com/emoji/8/green-circle-emoji.png" /> 
 </a> 
