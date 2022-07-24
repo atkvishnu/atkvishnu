@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary> &ensp; <a href="#4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="21px"/></a> </summary>
+<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/hashnode.png" height="21px"/></a> </summary>
   
 #### [Hashnode](https://rwx.hashnode.dev) Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -31,7 +31,7 @@
 ----
 
 <details>
-<summary> &ensp; <a href="#5"><img src="https://stackoverflow.design/assets/img/logos/so/logo-meta.png" height="25px"/></a>     </summary> 
+<summary> &ensp; <a href="#5"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/stackoverflow.png" height="25px"/></a>     </summary> 
 
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary> &ensp; <a href="#4"><img src="http://assets.stickpng.com/images/580b585b2edbce24c47b2a27.png" height="100px"/></a> </summary>
+<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/troll.png" height="100px"/></a> </summary>
    
 </br>
 <div align="center">
@@ -62,7 +62,7 @@
 ---
 
 <details>
-<summary> &ensp; <a href="#4"><img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height="100px"/></a> </summary>
+<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/dino-img.gif" height="100px"/></a> </summary>
 
 </br>   
    
@@ -85,7 +85,7 @@
 <summary>
 &ensp;
 <a href="#6">
-<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" height="25px"/>
+<img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/spotify.png" height="25px"/>
 </a> 
 </summary>
 </br> 
