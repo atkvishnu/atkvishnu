@@ -1,31 +1,8 @@
 
 <h1 align="center"> 
    Hey! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
-    <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
-    <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
-    <br/>
-  
-</p> 
 </h1>
 
-
-| Humor (chrome://dino/) |Walks of life|
-|:--:|:--:|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
-
-</br>
-
-<div align="left">
-<a href="https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba">
-<img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height=90px"/> 
-</a>
-</div>
-
----
 
 <div align="center">
 
@@ -33,11 +10,44 @@
    &ensp; &ensp;
 <a href="https://app.daily.dev/atkvishnu"><img height="350em" src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" alt="Vishnu's Dev Card"/></a>
    </p>
-   <img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
   
 </div>
 
 ----
+
+
+<details>
+<summary> &ensp; <a href="#4"><img src="http://assets.stickpng.com/images/580b585b2edbce24c47b2a27.png" height="100px"/></a> </summary>
+   
+</br>
+<div align="center">
+<a href="#">
+<img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
+</a>
+</div>
+</details>   
+
+---
+
+<details>
+<summary> &ensp; <a href="#4"><img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height="100px"/></a> </summary>
+
+</br>   
+   
+| Humor (chrome://dino/) |Walks of life|
+|:--:|:--:|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
+
+</br>
+<div align="center">
+
+[hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)                                                             
+    
+</div>
+</details>                                                                     
+                                                                                  
+---
 
 <details>
 <summary> &ensp; <a href="#4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="21px"/></a> </summary>
@@ -111,5 +121,11 @@
 
 ----
 
-
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
+    <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
+    <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
+    <br/>
+  
+</p> 
 
