@@ -5,47 +5,11 @@
 
 
 <div align="center">
-
 <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkvishnu&langs_count=15&layout=compact&hide=html,SCSS,CSS,PHP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"> 
    &ensp; &ensp;
 <a href="https://app.daily.dev/atkvishnu"><img height="350em" src="https://github.com/atkvishnu/atkvishnu/blob/master/devcard.svg" alt="Vishnu's Dev Card"/></a>
-   </p>
-  
 </div>
-
-----
-
-
-<details>
-<summary> &ensp; <a href="#4"><img src="http://assets.stickpng.com/images/580b585b2edbce24c47b2a27.png" height="100px"/></a> </summary>
-   
-</br>
-<div align="center">
-<a href="#">
-<img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
-</a>
-</div>
-</details>   
-
----
-
-<details>
-<summary> &ensp; <a href="#4"><img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height="100px"/></a> </summary>
-
-</br>   
-   
-| Humor (chrome://dino/) |Walks of life|
-|:--:|:--:|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
-|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
-
-</br>
-<div align="center">
-
-[hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)                                                             
-    
-</div>
-</details>                                                                     
+                                                                   
                                                                                   
 ---
 
@@ -81,6 +45,40 @@
 
 </details>
 
+----
+
+
+<details>
+<summary> &ensp; <a href="#4"><img src="http://assets.stickpng.com/images/580b585b2edbce24c47b2a27.png" height="100px"/></a> </summary>
+   
+</br>
+<div align="center">
+<a href="#">
+<img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
+</a>
+</div>
+</details>   
+
+---
+
+<details>
+<summary> &ensp; <a href="#4"><img src="https://media2.giphy.com/media/kyuWvPj8enRVAeUvfO/200w.gif" height="100px"/></a> </summary>
+
+</br>   
+   
+| Humor (chrome://dino/) |Walks of life|
+|:--:|:--:|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/normal_dino.gif)|Normal People|
+|![](https://github.com/atkvishnu/atkvishnu/blob/master/gifs/mentos.gif)|Developers|
+
+</br>
+<div align="center">
+
+[hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)                                                             
+    
+</div>
+</details>  
+
 ---
 
 <details>
@@ -101,6 +99,8 @@
 </details>
 
 ----
+
+
 
 <details>
 <summary> &ensp; 💬 </summary>
