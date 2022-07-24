@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/hashnode.png" height="21px"/></a> </summary>
+<summary> &ensp; <a href="#1"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/hashnode.png" height="21px"/></a> </summary>
   
 #### [Hashnode](https://rwx.hashnode.dev) Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -31,7 +31,7 @@
 ----
 
 <details>
-<summary> &ensp; <a href="#5"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/stackoverflow.png" height="25px"/></a>     </summary> 
+<summary> &ensp; <a href="#2"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/stackoverflow.png" height="25px"/></a>     </summary> 
 
 
 #### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
@@ -49,11 +49,11 @@
 
 
 <details>
-<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/troll.png" height="100px"/></a> </summary>
+<summary> &ensp; <a href="#3"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/troll.png" height="100px"/></a> </summary>
    
 </br>
 <div align="center">
-<a href="#">
+<a href="#4">
 <img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
 </a>
 </div>
@@ -62,7 +62,7 @@
 ---
 
 <details>
-<summary> &ensp; <a href="#4"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/dino-img.gif" height="100px"/></a> </summary>
+<summary> &ensp; <a href="#5"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/dino-img.gif" height="100px"/></a> </summary>
 
 </br>   
    
