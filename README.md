@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-   Hey! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px" width="45px">
 </h1>
 
 
