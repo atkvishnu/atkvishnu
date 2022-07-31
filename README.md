@@ -111,13 +111,15 @@
 <summary> &ensp; 💬 </summary>
 <br>  
 &ensp;&ensp;
+<a href="https://api.whatsapp.com/send?phone=917795231578">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45px" width="45px"/>
+</a>
+&ensp;&ensp;
 <a href="https://twitter.com/cleanscripting">
-  <!-- <img src="https://img.icons8.com/color/48/twitter--v1.png"/> -->
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" height="45px" width="45px"/>
 </a>
-&ensp;
+&ensp;&ensp;
 <a href="https://linkedin.com/in/atkvishnu">
-  <!-- <img src="https://img.icons8.com/color/48/linkedin.png"/> -->
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/linkedin1.gif" height="45px" width="45px"/>
 </a>
 &ensp;
