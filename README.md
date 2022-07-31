@@ -45,19 +45,7 @@
 
 </details>
 
-----
-
-
-<details>
-<summary> &ensp; <a href="#3"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/troll.png" height="100px"/></a> </summary>
-   
-</br>
-<div align="center">
-<a href="#4">
-<img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
-</a>
-</div>
-</details>   
+ 
 
 ---
 
@@ -76,6 +64,19 @@
 
 [hack the trex](https://gist.github.com/atkvishnu/7fab89403a07f9015f80680ad46e8cba)                                                             
     
+</div>
+
+----
+
+
+<details>
+<summary> &ensp; <a href="#3"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/troll.png" height="100px"/></a> </summary>
+   
+</br>
+<div align="center">
+<a href="#4">
+<img height="150em" src="https://readme-jokes.vercel.app/api" alt="atkvishnu"/>
+</a>
 </div>
 </details>  
 
@@ -97,6 +98,10 @@
 </div>
 
 </details>
+
+</details>  
+
+
 
 ----
 
