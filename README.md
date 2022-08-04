@@ -75,7 +75,7 @@
 </br>
 <div align="center">
 <a href="#4">
-   <img  src="https://readme-jokes.vercel.app/api?theme=gruvbox&qColor=%23944bcc&aColor=%23bbdb51" alt="atkvishnu"/>
+   <img height="150em" src="https://readme-jokes.vercel.app/api?theme=gruvbox&qColor=%23944bcc&aColor=%23bbdb51" alt="atkvishnu"/>
 </a>
 </div>
 </details>  
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lipspotatochipss&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/lipspotatochipss?si=b6e04159974e4e6c)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lipspotatochipss&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]()
 
 </div>
 
