@@ -130,7 +130,7 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
-    <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/>
+    <!-- <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/> -->
     <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
     <br/>
   
