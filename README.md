@@ -67,6 +67,8 @@
     
 </div>
 
+<!--
+
 ----
 
 
@@ -100,7 +102,10 @@
 
 </details>
 
+-->
+
 </details>  
+
 
 
 
@@ -111,10 +116,12 @@
 <details>
 <summary> &ensp; 💬 </summary>
 <br>  
+<!--
 &ensp;&ensp;
 <a href="https://api.whatsapp.com/send?phone=917795231578">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45px" width="45px"/>
 </a>
+-->
 &ensp;&ensp;
 <a href="https://twitter.com/cleanscripting">
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" height="45px" width="45px"/>
@@ -132,7 +139,7 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=atkvishnu" alt="atkvishnu"/>       
     <!-- <img src="https://badges.pufler.dev/gists/atkvishnu" alt="atkvishnu"/> -->
-    <img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>
+    <!--<img src="https://wakatime.com/badge/user/a237d0c9-9ec4-4fdd-8bb2-b550986ba318.svg" alt="https://wakatime.com/@a237d0c9-9ec4-4fdd-8bb2-b550986ba318"/>-->
     <br/>
   
 </p> 
