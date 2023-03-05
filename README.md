@@ -123,10 +123,6 @@
 </a>
 -->
 &ensp;&ensp;
-<a href="https://twitter.com/cleanscripting">
-  <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/tweety.gif" height="45px" width="45px"/>
-</a>
-&ensp;&ensp;
 <a href="https://linkedin.com/in/atkvishnu">
   <img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/linkedin1.gif" height="45px" width="45px"/>
 </a>
