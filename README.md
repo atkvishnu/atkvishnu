@@ -12,41 +12,6 @@
 </div>
                                                                    
                                                                                   
----
-
-<details>
-<summary> &ensp; <a href="#1"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/hashnode.png" height="21px"/></a> </summary>
-  
-#### [Hashnode](https://rwx.hashnode.dev) Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [PS5. [204. Count Primes]](https://rwx.hashnode.dev/ps5-204-count-primes)
-- [PS4. Prime Sum](https://rwx.hashnode.dev/ps4-prime-sum)
-- [PS3. Distribute in Circle!](https://rwx.hashnode.dev/ps3-distribute-in-circle)
-- [PS2. Total Moves For Bishop!](https://rwx.hashnode.dev/ps2-total-moves-for-bishop)
-- [PS1. Move Zeroes](https://rwx.hashnode.dev/ps1-move-zeroes)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-
-----
-
-<details>
-<summary> &ensp; <a href="#2"><img src="https://github.com/atkvishnu/atkvishnu/blob/master/gifs/stackoverflow.png" height="25px"/></a>     </summary> 
-
-
-#### [Stack Overflow](https://stackoverflow.com/users/11884426/) Activity:
-<!-- STACKOVERFLOW:START -->
-- [Answer by Vishnu for &#39;React&#39; must be in scope when using JSX react/react-in-jsx-scope?](https://stackoverflow.com/questions/42640636/react-must-be-in-scope-when-using-jsx-react-react-in-jsx-scope/72448273#72448273)
-- [Answer by Vishnu for Favicon requested on every route change](https://stackoverflow.com/questions/35409588/favicon-requested-on-every-route-change/71858881#71858881)
-- [Answer by Vishnu for TypeError: exphbs is not a function](https://stackoverflow.com/questions/69959820/typeerror-exphbs-is-not-a-function/71291574#71291574)
-- [Answer by Vishnu for Copying text outside of Vim with set mouse=a enabled](https://stackoverflow.com/questions/4608161/copying-text-outside-of-vim-with-set-mouse-a-enabled/69939393#69939393)
-- [Left Shift/ Right Shift an array using two pointers in C](https://stackoverflow.com/questions/69620162/left-shift-right-shift-an-array-using-two-pointers-in-c)
-<!-- STACKOVERFLOW:END -->
-
-</details>
-
- 
 
 ---
 
